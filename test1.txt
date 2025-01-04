@@ -3,3 +3,5 @@ ready to pull the commands.
 scenario:
 After cloning a repository, you notice that the latest changes from the remote branch are missing. 
 How would you ensure your local repository is up-to-date?
+
+learning the commads.
